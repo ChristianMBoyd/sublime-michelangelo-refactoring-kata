@@ -8,4 +8,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- /deps and /tests directories, which will eventually host the source content and the tests files
+
+- /deps, which will eventually host the source content
