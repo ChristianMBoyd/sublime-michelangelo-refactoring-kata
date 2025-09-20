@@ -1,0 +1,12 @@
+services:
+  sm64-deps:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      x-bake:
+        platforms:
+          - linux/amd64
+    container_name: sm64-deps
+    volumes:
+      - ../../deps/sm64:/sm64
+    command: make VERSION=us -j4
