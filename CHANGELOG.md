@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Added bsdmainutils to the Dockerfile for "hexdump" utility
+- Add other modernization changes as called out in the upstream PR <https://github.com/n64decomp/sm64/pull/91>
 
 ## [0.0.0] [9/21/2025]
 
