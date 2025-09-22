@@ -3,6 +3,7 @@ FROM ubuntu:18.04 AS build
 RUN apt-get update && \
     apt-get install -y \
         binutils-mips-linux-gnu \
+        bsdmainutils \
         build-essential \
         git \
         pkgconf \

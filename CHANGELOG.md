@@ -9,4 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Added bsdmainutils to the Dockerfile for "hexdump" utility
+
+## [0.0.0] [9/21/2025]
+
+### Added
+
 - /deps, which will eventually host the source content
