@@ -1,1 +1,5 @@
+## Ignore upstream dependencies being refactored
 deps/*
+
+## Ignore user-provided assets
+baserom/*
